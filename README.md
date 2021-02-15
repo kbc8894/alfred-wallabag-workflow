@@ -1,6 +1,6 @@
 # alfred-wallabag-workflow
 
-Safari extension like wallabagger is not exist.
+Safari extension like wallabagger does not exist.
 This workflow is for this
 
 ## Required binary
