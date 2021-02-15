@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string></string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>15406239-D43E-4A00-9CF9-8A0ED1FF3396</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D95225A9-0473-4CBD-9F18-3A6370E92983</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>372AC3F2-C81C-4106-9530-9102512E9686</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B91392FA-82B0-4FA7-B1FA-1537BDED986E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>383A38E2-3C5A-478B-81D0-54B3A928D682</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CA1D32E2-49F9-4841-BA0E-1235A7B3A986</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4EEAA809-4977-4C1A-BBC8-59DBA86FFD31</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE23AA80-0C45-4804-A191-3DADB5C1C13B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ABC4C4F4-3E28-4CA7-989D-851D9BE09440</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>15406239-D43E-4A00-9CF9-8A0ED1FF3396</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AE23AA80-0C45-4804-A191-3DADB5C1C13B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>383A38E2-3C5A-478B-81D0-54B3A928D682</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CA1D32E2-49F9-4841-BA0E-1235A7B3A986</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ABC4C4F4-3E28-4CA7-989D-851D9BE09440</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>372AC3F2-C81C-4106-9530-9102512E9686</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B219BF55-9D26-4232-8C4C-93A63267852C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D95225A9-0473-4CBD-9F18-3A6370E92983</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E9865917-F8BC-4A2C-A576-EF0748A8BCBA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E9865917-F8BC-4A2C-A576-EF0748A8BCBA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E731E555-AD8E-4162-AB60-AE5A24BA134A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Byungchan Kim</string>
+	<key>description</key>
+	<string>Save page to wallabag</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Save page to wallabag</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Successfully saved to your wallabag!</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>E731E555-AD8E-4162-AB60-AE5A24BA134A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>URL=$1
+
+/usr/local/bin/http --ignore-stdin --output token POST ${WALLABAG_HOST}/oauth/v2/token grant_type=password client_id=${WALLABAG_CLIENT_ID} client_secret=${WALLABAG_CLIENT_SECRET} username=${WALLABAG_USERNAME} password=${WALLABAG_PASSWORD}
+ACCESS_TOKEN=$(cat token | /usr/local/bin/jq -r .access_token)
+&gt;&amp;2 echo -n $ACCESS_TOKEN
+rm token
+
+
+/usr/local/bin/http --ignore-stdin --output result POST ${WALLABAG_HOST}/api/entries.json "Authorization:Bearer ${ACCESS_TOKEN}" url="${URL}"
+rm result
+
+echo -n "$URL"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E9865917-F8BC-4A2C-A576-EF0748A8BCBA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:text}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>D95225A9-0473-4CBD-9F18-3A6370E92983</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>CHECK=$([ -f /usr/local/bin/jq ] &amp;&amp; echo -n true || echo -n false)
+&gt;&amp;2 echo -n $CHECK
+echo -n $CHECK</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>ABC4C4F4-3E28-4CA7-989D-851D9BE09440</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>true</string>
+						<key>outputlabel</key>
+						<string>Exist</string>
+						<key>uid</key>
+						<string>372AC3F2-C81C-4106-9530-9102512E9686</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Not Exist</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>15406239-D43E-4A00-9CF9-8A0ED1FF3396</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>brew install jq</string>
+				<key>title</key>
+				<string>Use after install jq</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B91392FA-82B0-4FA7-B1FA-1537BDED986E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>wb</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>function run(argv) {
+  // JavaScript for Automation (JXA) //
+
+  const frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+  const frontmost_app = Application(frontmost_app_name)
+
+  if (['Google Chrome', 'Google Chrome Canary', 'Chromium', 'Opera', 'Vivaldi', 'Brave Browser'].indexOf(frontmost_app_name) &gt; -1) {
+    var current_tab_url = frontmost_app.windows[0].activeTab.url()
+    return JSON.stringify({"items":[{ title:"Save url", subtitle: current_tab_url ,arg: current_tab_url }]})
+
+  } else if (['Safari', 'Safari Technology Preview', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+    var current_tab_url = frontmost_app.documents[0].url()
+    return JSON.stringify({"items":[{ title:"Save url", subtitle: current_tab_url ,arg: current_tab_url }]})
+  } else {
+    throw new Error('You need a supported browser as your frontmost app')
+  }
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Save page to wallabag</string>
+				<key>type</key>
+				<integer>7</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>4EEAA809-4977-4C1A-BBC8-59DBA86FFD31</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>CHECK=$([ -f /usr/local/bin/http ] &amp;&amp; echo -n true || echo -n false)
+&gt;&amp;2 echo -n $CHECK
+echo -n $CHECK</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>383A38E2-3C5A-478B-81D0-54B3A928D682</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>true</string>
+						<key>outputlabel</key>
+						<string>Exist</string>
+						<key>uid</key>
+						<string>372AC3F2-C81C-4106-9530-9102512E9686</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Not Exist</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>CA1D32E2-49F9-4841-BA0E-1235A7B3A986</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>text</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>AE23AA80-0C45-4804-A191-3DADB5C1C13B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>brew install http</string>
+				<key>title</key>
+				<string>Use after install http</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B219BF55-9D26-4232-8C4C-93A63267852C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Safari extension like wallabagger is not exist.
+This workflow is for this
+
+Required binary
+- brew install http
+- brew install jq
+
+Need to be setup environment variable
+- WALLABAG_HOST : self-hosted url
+- WALLABAG_USERNAME : wallabag username
+- WALLABAG_PASSWORD : wallabag password
+- WALLABAG_CLIENT_ID :
+  API clients management &gt; Create a new client &gt; Client ID
+- WALLABAG_CLIENT_SECRET
+  API clients management &gt; Create a new client &gt; Client secret
+
+
+Supported Browsers
+- Safari
+- Google Chrome
+- Google Chrome Canary
+- Opera
+- Vivaldi
+- Brave Browser</string>
+	<key>uidata</key>
+	<dict>
+		<key>15406239-D43E-4A00-9CF9-8A0ED1FF3396</key>
+		<dict>
+			<key>xpos</key>
+			<integer>725</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>383A38E2-3C5A-478B-81D0-54B3A928D682</key>
+		<dict>
+			<key>xpos</key>
+			<integer>280</integer>
+			<key>ypos</key>
+			<integer>190</integer>
+		</dict>
+		<key>4EEAA809-4977-4C1A-BBC8-59DBA86FFD31</key>
+		<dict>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>190</integer>
+		</dict>
+		<key>ABC4C4F4-3E28-4CA7-989D-851D9BE09440</key>
+		<dict>
+			<key>xpos</key>
+			<integer>570</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>AE23AA80-0C45-4804-A191-3DADB5C1C13B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>190</integer>
+			<key>ypos</key>
+			<integer>220</integer>
+		</dict>
+		<key>B219BF55-9D26-4232-8C4C-93A63267852C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>570</integer>
+			<key>ypos</key>
+			<integer>270</integer>
+		</dict>
+		<key>B91392FA-82B0-4FA7-B1FA-1537BDED986E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>865</integer>
+			<key>ypos</key>
+			<integer>185</integer>
+		</dict>
+		<key>CA1D32E2-49F9-4841-BA0E-1235A7B3A986</key>
+		<dict>
+			<key>xpos</key>
+			<integer>430</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>D95225A9-0473-4CBD-9F18-3A6370E92983</key>
+		<dict>
+			<key>xpos</key>
+			<integer>855</integer>
+			<key>ypos</key>
+			<integer>65</integer>
+		</dict>
+		<key>E731E555-AD8E-4162-AB60-AE5A24BA134A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1140</integer>
+			<key>ypos</key>
+			<integer>35</integer>
+		</dict>
+		<key>E9865917-F8BC-4A2C-A576-EF0748A8BCBA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>950</integer>
+			<key>ypos</key>
+			<integer>35</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>WALLABAG_CLIENT_ID</key>
+		<string>1_3n4d94f4qxus44gww88k4w80kwo8so8kk0wsoc0w0kokgkgg0s</string>
+		<key>WALLABAG_CLIENT_SECRET</key>
+		<string>5l1srnxahaww8o40ggkgcw0s04ocwckwc4o04cgkw0ks4cwoks</string>
+		<key>WALLABAG_HOST</key>
+		<string>https://wallabag.coldbottle.duckdns.org</string>
+		<key>WALLABAG_PASSWORD</key>
+		<string>qawnoc-nagdyt-5murpA</string>
+		<key>WALLABAG_USERNAME</key>
+		<string>kbc8894</string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>WALLABAG_CLIENT_ID</string>
+		<string>WALLABAG_PASSWORD</string>
+		<string>WALLABAG_USERNAME</string>
+		<string>WALLABAG_HOST</string>
+		<string>WALLABAG_CLIENT_SECRET</string>
+	</array>
+	<key>version</key>
+	<string>0.1</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
