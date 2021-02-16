@@ -445,9 +445,9 @@ echo -n $CHECK</string>
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string>brew install http</string>
+				<string>brew install httpie</string>
 				<key>title</key>
-				<string>Use after install http</string>
+				<string>Use after install httpie</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
@@ -458,11 +458,11 @@ echo -n $CHECK</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Safari extension like wallabagger is not exist.
+	<string>Safari extension like wallabagger does not exist.
 This workflow is for this
 
 Required binary
-- brew install http
+- brew install httpie
 - brew install jq
 
 Need to be setup environment variable

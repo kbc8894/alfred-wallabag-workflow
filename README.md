@@ -4,7 +4,7 @@ Safari extension like wallabagger does not exist.
 This workflow is for this
 
 ## Required binary
-- brew install http
+- brew install httpie
 - brew install jq
 
 ## Need to be setup environment variable
